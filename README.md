@@ -1,7 +1,7 @@
 # 🌌 **AstraOS Client v2 Wurst Sürüm v7.54.1 — Güncelleme Notları & Kurulum Rehberi**
 
 AstraOS Client projemizdeki tüm bu büyük tasarım, performans ve işlevsellik yenilikleriyle oyun deneyiminizi zirveye taşıyoruz! 🚀
-
+( Yeni Versiyon Release Kısmında )
 ---
 
 ## 🌟 **Yapılan Temel İyileştirmeler ve Yenilikler**
